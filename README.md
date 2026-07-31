@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kishukant/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kishukant/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Kishukant/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
