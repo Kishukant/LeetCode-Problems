@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kishukant/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Kishukant/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kishukant/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kishukant/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
