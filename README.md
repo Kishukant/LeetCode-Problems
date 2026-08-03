@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
