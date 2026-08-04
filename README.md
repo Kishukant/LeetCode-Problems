@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Kishukant/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kishukant/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/Kishukant/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kishukant/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Kishukant/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Sorting
