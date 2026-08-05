@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kishukant/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Kishukant/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kishukant/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kishukant/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kishukant/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kishukant/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kishukant/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
