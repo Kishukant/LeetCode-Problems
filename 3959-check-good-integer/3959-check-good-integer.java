@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkGoodInteger(int n) {
+        boolean res=false;
         int d_sum=0;
         int SQ_sum=0;
         while(n>0){
@@ -9,10 +10,8 @@ class Solution {
             n=n/10;
         }
         if(SQ_sum-d_sum>=50){
-            return true;
+            res= true;
         }
-        else{
-            return false;
-        }
+        return res;
     }
 }
