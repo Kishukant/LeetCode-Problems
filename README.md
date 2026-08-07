@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Kishukant/LeetCode-Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
