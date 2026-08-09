@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Kishukant/LeetCode-Problems/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/Kishukant/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Kishukant/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/Kishukant/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kishukant/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kishukant/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3894-traffic-signal-color](https://github.com/Kishukant/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
