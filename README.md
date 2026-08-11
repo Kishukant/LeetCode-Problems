@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Kishukant/LeetCode-Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Kishukant/LeetCode-Problems/tree/master/1051-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
