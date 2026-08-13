@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Kishukant/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kishukant/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kishukant/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Kishukant/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Kishukant/LeetCode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
