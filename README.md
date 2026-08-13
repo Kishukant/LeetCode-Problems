@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Kishukant/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Kishukant/LeetCode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kishukant/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kishukant/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Kishukant/LeetCode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
