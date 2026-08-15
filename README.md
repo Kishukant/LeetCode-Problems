@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kishukant/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kishukant/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kishukant/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
