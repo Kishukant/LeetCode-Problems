@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kishukant/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kishukant/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Graph Theory
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kishukant/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kishukant/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kishukant/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,4 +227,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Kishukant/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
