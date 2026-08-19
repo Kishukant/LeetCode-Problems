@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Kishukant/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kishukant/LeetCode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kishukant/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kishukant/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/Kishukant/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kishukant/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Kishukant/LeetCode-Problems/tree/master/3110-score-of-a-string) |
