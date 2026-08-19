@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Kishukant/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishukant/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kishukant/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Kishukant/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Kishukant/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Kishukant/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Greedy
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Kishukant/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
