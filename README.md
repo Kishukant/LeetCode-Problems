@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kishukant/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/Kishukant/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kishukant/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
