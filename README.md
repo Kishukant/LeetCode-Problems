@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kishukant/LeetCode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishukant/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Kishukant/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2418-sort-the-people](https://github.com/Kishukant/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kishukant/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Kishukant/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Kishukant/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
 | ------- |
