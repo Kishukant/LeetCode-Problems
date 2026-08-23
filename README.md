@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kishukant/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishukant/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishukant/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Kishukant/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
