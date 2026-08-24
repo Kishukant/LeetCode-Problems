@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishukant/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishukant/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kishukant/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2235-add-two-integers) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishukant/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishukant/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -288,10 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -301,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishukant/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
