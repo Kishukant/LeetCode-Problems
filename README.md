@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Kishukant/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Kishukant/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kishukant/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Kishukant/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Kishukant/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kishukant/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/4020-elevator-requests-i) |
 ## Counting
 |  |
 | ------- |
