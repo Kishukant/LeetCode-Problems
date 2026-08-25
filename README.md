@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishukant/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Kishukant/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Kishukant/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
