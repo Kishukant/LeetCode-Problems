@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Kishukant/LeetCode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kishukant/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kishukant/LeetCode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
