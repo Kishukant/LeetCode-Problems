@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Kishukant/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Kishukant/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Kishukant/LeetCode-Problems/tree/master/0709-to-lower-case) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kishukant/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Kishukant/LeetCode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kishukant/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Kishukant/LeetCode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kishukant/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
