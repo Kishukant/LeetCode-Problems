@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Kishukant/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Kishukant/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Kishukant/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kishukant/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Kishukant/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Kishukant/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0299-bulls-and-cows](https://github.com/Kishukant/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0657-robot-return-to-origin](https://github.com/Kishukant/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Kishukant/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kishukant/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
