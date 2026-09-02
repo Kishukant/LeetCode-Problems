@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishukant/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1816-truncate-sentence](https://github.com/Kishukant/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Kishukant/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kishukant/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kishukant/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishukant/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1816-truncate-sentence](https://github.com/Kishukant/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kishukant/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
