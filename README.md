@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kishukant/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kishukant/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kishukant/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0223-rectangle-area](https://github.com/Kishukant/LeetCode-Problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Kishukant/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -411,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kishukant/LeetCode-Problems/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Kishukant/LeetCode-Problems/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
