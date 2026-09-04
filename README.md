@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kishukant/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kishukant/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kishukant/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Kishukant/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kishukant/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Kishukant/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishukant/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kishukant/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Kishukant/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kishukant/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
