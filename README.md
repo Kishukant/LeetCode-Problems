@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kishukant/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Kishukant/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
 ## Heap (Priority Queue)
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kishukant/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Kishukant/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Kishukant/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Kishukant/LeetCode-Problems/tree/master/0223-rectangle-area) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kishukant/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
