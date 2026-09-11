@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Kishukant/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kishukant/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Kishukant/LeetCode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Kishukant/LeetCode-Problems/tree/master/1603-design-parking-system) |
 ## Heap (Priority Queue)
 |  |
@@ -429,4 +430,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kishukant/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Kishukant/LeetCode-Problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Kishukant/LeetCode-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
