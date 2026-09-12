@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishukant/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/Kishukant/LeetCode-Problems/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kishukant/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kishukant/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Kishukant/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kishukant/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
