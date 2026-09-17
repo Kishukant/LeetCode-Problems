@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Kishukant/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Kishukant/LeetCode-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishukant/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Kishukant/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
