@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishukant/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kishukant/LeetCode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Kishukant/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Kishukant/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/Kishukant/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kishukant/LeetCode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Kishukant/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishukant/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Kishukant/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Kishukant/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kishukant/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1872-stone-game-viii](https://github.com/Kishukant/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kishukant/LeetCode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2485-find-the-pivot-integer](https://github.com/Kishukant/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishukant/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Kishukant/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
