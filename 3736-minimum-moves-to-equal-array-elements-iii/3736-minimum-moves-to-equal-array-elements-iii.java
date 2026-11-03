@@ -1,16 +1,15 @@
 class Solution {
     public int minMoves(int[] nums) {
-        int large=nums[0];
-        int count=0;
-        for(int num : nums){
-            if (num>large){
-                large=num;
+        int lar=nums[0];
+        for(int i=0;i<nums.length;i++){
+            if(lar<nums[i]){
+                lar=nums[i];
             }
         }
-        for(int i=0;i<nums.length;i++){
-            int c=large-nums[i];
-            count+=c;
+        int moves=0;
+        for(int j=0;j<nums.length;j++){
+            moves=moves+(lar-nums[j]);
         }
-        return count;
+        return moves;
     }
 }
