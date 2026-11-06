@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kishukant/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kishukant/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kishukant/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Kishukant/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Kishukant/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishukant/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishukant/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kishukant/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kishukant/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kishukant/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
