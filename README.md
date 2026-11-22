@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Kishukant/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishukant/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kishukant/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kishukant/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Kishukant/LeetCode-Problems/tree/master/2129-capitalize-the-title) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Kishukant/LeetCode-Problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/Kishukant/LeetCode-Problems/tree/master/2418-sort-the-people) |
