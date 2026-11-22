@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishukant/LeetCode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Kishukant/LeetCode-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishukant/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kishukant/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishukant/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Kishukant/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kishukant/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Kishukant/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishukant/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
